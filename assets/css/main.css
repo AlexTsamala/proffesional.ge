@@ -59,7 +59,20 @@ mark {
 	background-color: transparent;
 	color: inherit;
 }
-
+.facebook-link-section{
+	display: flex;
+	align-items: center;
+	gap:6px;
+	position: absolute;
+	right:40px;
+	top:55px;
+}
+.facebook-link-description{
+	margin:0;
+	font-size:20px;
+	font-weight: 500;
+	color:#37c0fb;
+}
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
